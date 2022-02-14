@@ -1,11 +1,11 @@
-# SPN_DAPP_REACT_TEST
+# DAPP_REACT_TEST
 
 ## 개발환경
 
 | 환경 | Version |
 | ------ | ------ |
 | Node | v14.19.0 |
-| NPM | 6.14.16 |
+| NPM | v6.14.16 |
 
 - 초기화(library 설치) : 
 ```sh 
